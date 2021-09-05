@@ -10,3 +10,7 @@ function myFunction() {//creating a function
     sentence += " A lot from this course!";//concatenating this with the above string
     document.getElementById("Concatenate").innerHTML = sentence//locating the id in the html file
 }
+
+function myMath() {
+    document.getElementById("demo").innerHTML = "22";
+  }
