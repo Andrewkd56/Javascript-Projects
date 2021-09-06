@@ -9,3 +9,4 @@ function my_Dictionary() {//creating a function to create a dictionary
     delete Pokemon.Type; //here we used an operator as a word to delete part of our dictionary
     document.getElementById("Dictionary").innerHTML = Pokemon.Type;
 }
+
